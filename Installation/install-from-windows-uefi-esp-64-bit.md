@@ -2,7 +2,7 @@
 
 ### Before you begin
 
-**You must turn off Secure Boot from your BIOS if you have it enabled. Otherwise it won't boot.**
+**You must turn off Secure Boot from your BIOS if you have it enabled. Otherwise it won't boot. You must also disable bitlocker encryption on your main drive or Grub2Win cannot be installed successfully **
 **There is no need to format or partition the disk unless you want to. Installation along with windows won't wipe the drive and works fine**
 
 For 32bit or MBR/Legacy install, Axon from Supreme-Gamers put together a great installer that works with MBR or EFI and installs on NTFS or EXT4. Check it out here: [https://supreme-gamers.com/t/advanced-android-x86-installer-for-windows.300/](https://supreme-gamers.com/t/advanced-android-x86-installer-for-windows.300/)
